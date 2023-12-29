@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathiasdawit
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web stacks
-- 💞️ I’m looking to collaborate on making websites
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning web stacks and AI
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: find me on LinkedIn
 
 <!---
