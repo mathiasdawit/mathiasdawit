@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathiasdawit
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web frameworks and AI
+- 🌱 I’m currently learning DevOps, infrastructure, cloud and AI
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: find me on LinkedIn: https://www.linkedin.com/in/mathiasdawit/
 
